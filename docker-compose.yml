@@ -1,0 +1,6 @@
+version: "3"
+services:
+  texlive-currency:
+    build: texlive-currency/
+  texlive-cyber:
+    build: texlive-cyber/
